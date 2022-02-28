@@ -1,0 +1,174 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Truth in two letters by a man worth from the regiment of Colonell Browne, upon the designes of, Marblorovv [sic] and VVinchester. With the manner of all the proceedings since they went out upon that service. Not written by any pot poet. But by an honest true hearted citizen, who serves more in conscience then covetousnesse.</title>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1642</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 11 KB of XML-encoded text transcribed from 5 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2012-10">2012-10 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A90046</idno>
+            <idno type="STC">Wing N83</idno>
+            <idno type="STC">Thomason E83_11</idno>
+            <idno type="STC">ESTC R22344</idno>
+            <idno type="EEBO-CITATION">99871715</idno>
+            <idno type="PROQUEST">99871715</idno>
+            <idno type="VID">124131</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A90046)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 124131)</note>
+            <note>Images scanned from microfilm: (Thomason Tracts ; 14:E83[11])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>Truth in two letters by a man worth from the regiment of Colonell Browne, upon the designes of, Marblorovv [sic] and VVinchester. With the manner of all the proceedings since they went out upon that service. Not written by any pot poet. But by an honest true hearted citizen, who serves more in conscience then covetousnesse.</title>
+                  <author>W. N.</author>
+               </titleStmt>
+               <extent>8 p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed by One, who regards rather truth then money,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1642.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>First letter dated Newbury, December 9. 1642 and signed W. N., second letter dated December 17. 1642.</note>
+                  <note>Annotation on Thomason copy: "Decemb. 22".</note>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Great Britain --  History --  Civil War, 1642-1649 --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2012-01</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2012-01</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2012-03</date>
+            <label>Mona Logarbo</label>Sampled and proofread</change>
+         <change>
+            <date>2012-03</date>
+            <label>Mona Logarbo</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2012-05</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:124131:1" rendition="simple:additions"/>
+            <pb facs="tcp:124131:1"/>
+            <head>TRVTH IN TWO LETTERS BY A MAN OF WORTH from the Regiment of Colonell <hi>Browne,</hi> upon the deſignes of MARBLOROVV, AND VVINCHESTER.</head>
+            <p>With the manner of all the pro<g ref="char:EOLhyphen"/>ceedings ſince they went out upon that ſervice.</p>
+            <p>Not Written by any pot Poet. But by an honeſt true hearted Citizen, who ſerves more in Conſcience then Covetouſneſſe.</p>
+            <p>
+               <add>Decemb. 22</add> 
+               <hi>LONDON,</hi> Printed by One, who regards rather truth then Money, 1642.</p>
+         </div>
+         <div type="to_the_reader">
+            <pb facs="tcp:124131:2"/>
+            <head>To the Reader.</head>
+            <opener>
+               <salute>REader</salute>
+            </opener>
+            <p>if you find not my things I print to be true, reall, and from Men of worth, you ſhall have your Money back, if you returne the Bookes; for I deale not with pot Poets nor with ſuch as write any thing to get Money.</p>
+            <closer>
+               <signed>So I reſt yours, <hi>M. S.</hi>
+               </signed>
+            </closer>
+         </div>
+      </front>
+      <body>
+         <div type="letter">
+            <pb n="3" facs="tcp:124131:2"/>
+            <opener>
+               <salute>Loving friend,</salute>
+            </opener>
+            <p>
+               <seg rend="decorInit">I</seg>T much troubles to heare of that lame<g ref="char:EOLhyphen"/>neſſe that is upon you, which hath brought ſo much paine with it, the Lord in his due time I hope wil deliver you from both, and in the meane time give you patience to ſubmit; I received the ſad newes of it, in your Letter on wedneſday as we were upon our march from <hi>Okingham</hi> to <hi>Newberry;</hi> Where we quartered wedneſday night, from whence we intended to relieve <hi>Marleborough</hi> which had valiant<g ref="char:EOLhyphen"/>ly ſtood out againſt the enemy three or foure dayes, and ſlew divers of them with little loſſe on their ſide, never yielding untill their Towne was fired in foure or five places, which when it was taken, they plundered all the Town, and tooke ſome ſix ſcore of the honeſt peo<g ref="char:EOLhyphen"/>ple priſoners, and much like unto the <hi>Iriſh Rebells</hi> moſt <hi>Barbarouſly</hi> dealt with them all, which might have beene prevented if Mr. <hi>White.</hi> Mr <hi>Pitts</hi> friend his ſolicitation for three or foure dayes together of my <hi>Lord Generall,</hi> and the <hi>Councell</hi> of <hi>War</hi> could have prevailed to have ſent us in time, but when it was too late we were ſent; Thurſday we heard it was taken &amp; that 3000 were got into <hi>Wantage</hi> in <hi>Barkeſhire:</hi> Thurſday about 11 or 12 of the clock we marched toward that Town and drew
+<pb n="4" facs="tcp:124131:3"/>up in the Field before it in to the ancles in Clay, about nine or ten of the clock at night, but ſtaying ſomwhat too long before we fell in upon them not knowing their ſtrength, and fortifications: that better part of their perſons, and horſe fled and eſcaped amongſt whom my Lord <hi>Digby</hi> was the chiefe, the night was ſo exceeding <hi>darke, wet,</hi> and <hi>Tempeſtuous</hi> that we could not poſſibly get intelligence of their ſtrength, untill ſome 20 of our horſe were ſent in amongſt them, who ſlew their <hi>Sen<g ref="char:EOLhyphen"/>tinell,</hi> harged a whole Troope of their horſe, and ſafely retreated to us with the loſſe of only one of their horſes: then were ſix or ſeven companies of <hi>Dragoones</hi> ſent in, who every ſtep ſtept up neere to the very tops of their Bootes, and yet went on with ſuch <hi>courage</hi> and <hi>cheere<g ref="char:EOLhyphen"/>fulneſſe</hi> (though exceeding wet, weary, and dirty) as though they had been in the moſt delightfull <hi>Garden</hi>-walkes; after them ſome Troops of horſe, but before this could be done moſt of them eſcaped, which other<g ref="char:EOLhyphen"/>wiſe had been all ſlaine or taken <hi>Priſoners,</hi> only we ſlew five or ſix of them, one a Captaine, and tooke about 30 priſoners which we releaſed at our comming away to free our ſelves of being troubled with them, that night we returned back againe to <hi>Nuberry,</hi> all the night being exceeding <hi>wet</hi> and <hi>bluſtring,</hi> ſo that we had 24 houres march &amp; ſervice ſuch as theſe that have been 20 yeares inſervices abroad never had the like, yet we are all well bleſſed be God, only many of our horſes faile us and by reaſon of it ſome of our men are taken priſoners, the Enemy lying in moſt parts round about us, and with their ſcouts take ſome of our men whoſe horſes tir'd, we are like to have a very hard ſervice of it, If it con<g ref="char:EOLhyphen"/>tinue out the winter as I doubt it will: we have watcht three or foure nights together, but for victualls bleſſed
+<pb n="5" facs="tcp:124131:3"/>be <hi>God</hi> we have hitherto had enough and never yet wanted any. I received a Letter from Maſter <hi>D</hi> for which I give him thanks, I would now returne him anſwer but I cannot being ſo extreame weary and ſleepy, only remember me kindly to him and tell him that our Commiſſion was expreſly to fall upon <hi>Henly,</hi> and at that preſent thoſe Forces that my Lord <hi>Generall</hi> ſent from <hi>Windſor</hi> were to fall upon <hi>Marlborough,</hi> ſo that our Commiſſion was not ſo large as he was informed; we had this afternoone an alarum that great Forces of the <hi>Kings</hi> were comming, two or three wayes a<g ref="char:EOLhyphen"/>gainſt this Towne, which we finde is not altogether true yet: certainely there is of ſome which will make us watch this night alſo: I had almoſt forgot, we tooke my <hi>Lord Digbies Coach</hi> and <hi>Horſes</hi> and their <hi>Carriages</hi> and <hi>Armes,</hi> and <hi>Powder,</hi> but were conſtrained to throw a<g ref="char:EOLhyphen"/>way the <hi>Powder</hi> and tooke their <hi>Muskets,</hi> and one of them that was ſlaine died with a fearefull Oath in his mouth ſwearing he would ſee the Parliament hang<g ref="char:EOLhyphen"/>ed before hee would yield to them, with that one of our Dragoneers ſhot him, ſo that his laſt words were Oaths. Good ſtore of pillage our men got from them that they had gotten at <hi>Marlborough,</hi> when they plun<g ref="char:EOLhyphen"/>dered it: remember me to Maſter <hi>D.</hi> and their wives, Maſter <hi>A.</hi> and his wife, Maſter <hi>T.</hi> Maſter <hi>B.</hi> my Cozen <hi>Ioſeph,</hi> and the reſt that love me, not forgetting the new married couple, ſo with my love to your ſelfe I commit you and yours to the Lords protection, and ever remaine your truly loving Friend.</p>
+            <closer>
+               <dateline>From our Quarter at <hi>Newbury,</hi> 
+                  <date>
+                     <hi>December,</hi> 9. 1642</date>.</dateline>
+               <signed>W, N.</signed>
+            </closer>
+         </div>
+         <div type="letter">
+            <pb n="6" facs="tcp:124131:4"/>
+            <opener>
+               <dateline>Havant <date>December, 17. 1642.</date>
+               </dateline>
+               <lb/>
+               <salute>LOving friend,</salute>
+            </opener>
+            <p>I now write this letter as I have done others formerly, not knowing when or how to ſend it, the <hi>Lord</hi> hath in goodneſſe wonderfully pre<g ref="char:EOLhyphen"/>ſerved me hitherto, eſpecially in our taking of <hi>Wincheſter,</hi> where the moſt part of the Regiment aſſaulted the City at one ſide of it where the wall was broken downe, which yet notwithſtanding (with no ſmall dificulty we entred) and in regard of the excee<g ref="char:EOLhyphen"/>ding high and ſteepe paſſage to it, ſo ſteepe that we had no other way to get up, but to creepe upon our knees and hands, from the bottom to the top as high as moſt houſes, the Enemy all the while playing with their Muſqueteers upon us, but ſlew but three men in our getting up, and one of our <hi>Captaines</hi> that followed me as he was entring the breach, after I had led in ſome twenty men; the bullets all this while flew thicke about us, yet I bleſſe <hi>God</hi> I had not the leaſt hurt; the moſt part of our Enemies at our comming got into the <hi>Caſtle,</hi> ſo that the greateſt part of the oppoſition we had in ta<g ref="char:EOLhyphen"/>king the Towne was from the Townſe-men, who have ſince ſufficiently paid for it, for they have bin (the grea<g ref="char:EOLhyphen"/>teſt oppoſers of us) plundered by our unruly ſouldiers: we ſtood in armes all that night, and beſet the <hi>Caſtle</hi> round with Muſquetiers and Horſe, and laid <hi>Perdues</hi> under the wall that not a man of them could ſtir, then they ſounded a parley about ten or eleven of the clocke at night, but we refuſed to accept it, againſt the mor<g ref="char:EOLhyphen"/>ning we had prepared a great number of <hi>Fagots and
+<pb n="7" facs="tcp:124131:4"/>picht barrells,</hi> to fire the gate in regard we wanted <hi>Or<g ref="char:EOLhyphen"/>dinance</hi> and <hi>Petards:</hi> as ſoone as it began to be light they ſounded another Parley wherein my Lord <hi>Grandiſon</hi> himſelfe with ſome fiue or ſix more deſired to be, which was accepted, after much debate they yielded and Ar<g ref="char:EOLhyphen"/>ticles were drawen up that they were all to be taken <hi>Priſoners</hi> and reſigne up the <hi>Caſtle,</hi> and their Armes, and Horſes, and Money, all to be taken poſſeſſion of by our Officers, but our Common Souldiers who will be under no command, broke into the <hi>Caſtle</hi> by force, ſei<g ref="char:EOLhyphen"/>zed upon the horſes and all their goods, and moſt per<g ref="char:EOLhyphen"/>fidiouſly contrary to our Articles fell to ſtripping of them not leaving ſo much as Cloths upon ſome, which together with many other diſorderly paſſages makes us weary of the ſervice, which I had quit ere this but that the cauſe ties me to paſſe through all diffi<g ref="char:EOLhyphen"/>culties whatſoever; ſince our taking the <hi>Caſtle,</hi> ſome of our men have forſaken us (upon theſe grounds) one for want of money, the other becauſe my Lord <hi>Grandi<g ref="char:EOLhyphen"/>ſon</hi> and his <hi>Lievetenant Colonell,</hi> have eſcaped after they were a day and night <hi>Priſoners,</hi> which doth much diſ<g ref="char:EOLhyphen"/>hearten all of us; I doubt not but you heard of all and much more before this, the report is of great treaſure that was taken from them, which is more then I know, yet doubtleſſe many have had good booties of money and cloths, beſides many brave horſes, but for my part I have neither: For I account my <hi>Obedience</hi> to <hi>Or<g ref="char:EOLhyphen"/>ders</hi> more then all that was here to be gotten: our ene<g ref="char:EOLhyphen"/>mies are much troubled at their loſſe, for they account it a great overthrow, two Regiments being utterly de<g ref="char:EOLhyphen"/>ſolated, their <hi>Commanders</hi> taken, together with their <hi>Armes,</hi> and five or ſix hundred horſe: Colonell <hi>Brownes</hi> Regiment had the honour to take the <hi>City,</hi> and
+<pb n="8" facs="tcp:124131:5"/>enter the breach. Give praiſe to <hi>God,</hi> for my preſerva<gap reason="illegible" extent="4 letters">
+                  <desc>••••</desc>
+               </gap> we are now at <hi>Havant</hi> in <hi>Hamp.</hi> whither Sr. <hi>William W<gap reason="illegible" extent="1 chunk">
+                     <desc>…</desc>
+                  </gap>
+               </hi> and Col. <hi>Ramſy</hi> are come with two thouſand men, from whence we are to goe againſt <hi>Chicheſter</hi> in <hi>Suſſex,</hi> which I beleeve will be a good ſervice, if they doe not run a<g ref="char:EOLhyphen"/>way before we come: they are well fortified with Or<g ref="char:EOLhyphen"/>dinance and one thouſand men; we want no hardſhip neither by night nor day, for we meete with nothing elſe, yet I bleſſe God I never was better in health; I have not ſo much as a <hi>Cough,</hi> the Lord give me a thank<g ref="char:EOLhyphen"/>full believing heart; remember me to all that loue and aske for me: ſo with my love to you I commend you and all about you to the Lords protection and reſt, Yours.</p>
+            <p>
+               <hi>We are this munday morning commanded by my Lord Ge<g ref="char:EOLhyphen"/>nerall to returne to him juſt now when we were going againſt</hi> Chicheſter.</p>
+         </div>
+         <trailer>FJNJS.</trailer>
+      </body>
+   </text>
+</TEI>
